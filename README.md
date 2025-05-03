@@ -1,1 +1,2 @@
-In this code we have a example how to use decorator pattern, the idea is to create code with the intent in create a kombo of dammage combining diffrent type of weapons 
+This code demonstrates how to use the Decorator Pattern. The goal is to create flexible damage combinations by mixing different weapon types.
+![Decorator](https://github.com/user-attachments/assets/dd7af050-fd31-4400-aedd-948c05407ba5)
